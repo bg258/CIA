@@ -8,17 +8,15 @@ Vår praktiske tilnærming innebærer trinnvise guider og eksempler for hvert em
 
 Vi er glade for å ha deg ombord på denne læringsreisen. La oss begynne med å utforske kapitlene i Excel Grunnkurs og ta dine Excel-ferdigheter til neste nivå!
 
-Emojier vi kan bruke for å holde kontroll: (❌ og ✅)
-
 **Kapitler i kurset inkluderer:**
 
 1. Definisjoner og elementer i skjermbildet
     * Kolonne, rad og celle
     * Båndet og hurtigmeny
-    * Navnefelt og formellinje 
+    * Navnefelt og formellinje
     * Forstørre og forminske
-    * Markørforflytning 
-    * Noen nyttige hurtigtaster 
+    * Markørforflytning
+    * Noen nyttige hurtigtaster
 2. Kopiere og flytte celler 
     * Flytte 
     * Kopiere
