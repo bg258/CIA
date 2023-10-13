@@ -5,7 +5,7 @@ Det gis en grunnutdannelse i datateknologi og samtidig spisskompetanse rettet mo
 
 ## Ulike fag innenfor datateknologi-studieretningen med sine respektive karakterer:
 * Ms Office: Word, Excel, OneNote [A]
-* Hardware & Support Fundamentals []
+* Hardware & Support Fundamentals [B]
 * Networking Fundamentals []
 * Configuring Windows clients []
 * Installing & Configuring Windows Server []
