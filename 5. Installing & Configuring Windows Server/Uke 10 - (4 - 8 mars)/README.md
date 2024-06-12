@@ -1,8 +1,5 @@
 # This Week:
-
-## Monday:
-
-### Storing Data in Server 2019
+### Storing Data in Server 2019 
 - Storage Types
 - Local Storage and Network Storage
 - Storage Spaces Direct
